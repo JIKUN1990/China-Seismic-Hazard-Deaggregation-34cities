@@ -2,6 +2,5 @@
 Qualification of the dominant earthquake scenarios that have the most contribution to the seismic hazard for main cities in China. After utilizing the CPHSA scheme to construct the China hazard map by OQ platform, the results of deaggregation for PGA, Sa(0.2s, 0.3s, 0.5s, 0.7s, 1.0s, 1.5s, 2.0s), corresponding to Mean Return Periods (MRPs) of 475-yr and 2475-yr, for 34 main cities in China were calculated. The deaggregation of hazard could give better insights and improved communication of the hazard, and a more informed characterization of the ground motion to be expected at the site.
 
 Please cite the work as:
-Kun Ji , Ruizhi Wen*, Yefei Ren, and Lansheng Chen. Deaggregation of Probabilistic Ground-Motion Hazard regarding Main Cities of China (2021)The Seismic Record. 
-Status: Under Review
+Kun Ji , Ruizhi Wen*, Yefei Ren, and Lansheng Chen. Deaggregation of Probabilistic Ground-Motion Hazard regarding Main Cities of China (2021)
 
